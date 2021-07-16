@@ -1,0 +1,15 @@
+.form-score {
+  max-width: 500px;
+  margin: auto;
+  padding: 15px;
+  padding-top: 60px;
+}
+
+.img-gallery {
+  object-fit: scale-down;
+  height: 15vw;
+}
+
+.img-fluid {
+  max-width: 100%;
+}
