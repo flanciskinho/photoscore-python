@@ -94,5 +94,3 @@ def query():
 
 	return render_template('results.html', execution_time=str(execution_time), amount=len(results), results=results)
 
-# export FLASK_APP=app.py
-# export FLASK_ENV=development
